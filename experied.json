@@ -1,4 +1,4 @@
 {
-  "active": true,
-  "expired_at": "2025-09-25"
+  "status": true,
+  "expired": "2025-09-25T23:59:59Z"
 }
